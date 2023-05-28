@@ -1,0 +1,45 @@
+
+p {
+    color: white;
+    text-align: center;
+    margin:auto;
+    font-family:sans-serif;
+    background-color: blue;
+    font-family: 'Barlow';
+    /* This is a comment! */
+}  
+
+h1 {
+    color: white;
+    font-size: 69px;
+    text-align: center;
+    font-family: 'Barlow';
+}
+
+a {
+    color: white;
+    font-family: 'Barlow';
+}
+
+img {
+    width: 400px ;
+    height: 400px ;
+    border-radius: 200px;
+}
+
+body {
+    text-align: center;
+    background-color: gold;
+    margin: 50px;
+}
+#doge {
+    color: white;
+    background-color:blue;
+}
+span {
+    background-color: blue;
+    margin: 32px 12px 32px 12px;
+    color: white;
+    box-shadow: 20px;
+
+}
